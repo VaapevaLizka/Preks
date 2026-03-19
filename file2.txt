@@ -1,1 +1,1 @@
-echo "More data in file2" >> file2.txt
+echo "Content from main branch" > file2.txt
